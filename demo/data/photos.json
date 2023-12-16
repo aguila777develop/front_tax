@@ -1,0 +1,16 @@
+{
+    "data": [
+        {
+            "itemImageSrc": "demo/images/galleria/gal1.jpg",
+            "thumbnailImageSrc": "demo/images/galleria/gal1.jpg",
+            "alt": "Description for Image 1",
+            "title": "Title 1"
+        },
+        {
+            "itemImageSrc": "demo/images/galleria/gal2.jpg",
+            "thumbnailImageSrc": "demo/images/galleria/gal2.jpg",
+            "alt": "Description for Image 2",
+            "title": "Title 2"
+        }
+    ]
+}
